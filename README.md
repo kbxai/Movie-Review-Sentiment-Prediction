@@ -1,4 +1,4 @@
-# Assignment 3 - Movie Review Sentiment Prediction
+# Movie Review Sentiment Prediction
 
 ## Assignment Description
 In this assignment, your task is to predict the sentiment of the given movie reviews. You will be provided with a training dataset and a test dataset. The labels for the test dataset will remain hidden, and your task is to submit predictions for the same. The assignment will be conducted on the Kaggle Platform.
